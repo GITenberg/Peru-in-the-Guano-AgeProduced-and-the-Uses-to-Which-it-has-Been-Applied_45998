@@ -1,0 +1,31 @@
+_repo: Peru-in-the-Guano-AgeProduced-and-the-Uses-to-Which-it-has-Been-Applied_45998
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Duffield, A. J. (Alexander James)
+    alias: Duffield, Alexander James
+    birthdate: 1821
+    deathdate: 1890
+    gutenberg_agent_id: '43563'
+    url: http://www.gutenberg.org/2009/agents/43563
+description: ''
+gutenberg_issued: '2014-06-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45998'
+  lccn: 03001688
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Guano'
+- !lcc 'F3401'
+- !lcsh 'Peru -- Description and travel'
+title: "Peru in the Guano Age\r\nBeing a Short Account of a Recent Visit to the Guano\
+  \ Deposits, with Some Reflections on the Money They Have Produced and the Uses to\
+  \ Which It Has Been Applied"
+url: http://www.gutenberg.org/ebooks/45998
