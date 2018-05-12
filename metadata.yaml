@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '43563'
     url: http://www.gutenberg.org/2009/agents/43563
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45998#Peru-in-the-Guano-AgeProduced-and-the-Uses-to-Which-it-has-Been-Applied
 gutenberg_issued: '2014-06-16'
 gutenberg_type: Text
 identifiers:
